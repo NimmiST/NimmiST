@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NimmiST
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science projects
